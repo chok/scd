@@ -15,7 +15,9 @@ For example:
 in .bashrc
 
 ```bash
+
 $alias scd=". /home/plop/scripts/scd/scd.sh"
+
 ```
 
 Usage
