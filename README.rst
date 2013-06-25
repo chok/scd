@@ -1,8 +1,8 @@
 scd
 ===
 
-scd means "smart" cd. The aim is to change directory by passing many folder and try to find the right one to go or to disply if there is many results.
- 
+scd means "smart" cd. The aim is to change directories by searching from the current directory for the target directory.
+
 
 
 Installation
